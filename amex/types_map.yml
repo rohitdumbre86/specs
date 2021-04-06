@@ -5,7 +5,7 @@ account_status_map:
 account_type_map:
   - OPEN: [Active]
 
-# deposit_type_map:
+deposit_type_map:
 #
 # loan_type_map:
 
