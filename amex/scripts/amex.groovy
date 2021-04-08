@@ -10,4 +10,5 @@ public GenericAcquireResponse acquire(
     String[][] unboundInputVariables = [
       ["request_entities", "customerinfo"], ["provider_config", "apiKey"], ["request_entities", "account"], ["provider_config", "apiKey"], ["provider_config", "apiKey"], ["entity_data_level", "account"], ["provider_config", "apiKey"], ["provider_config", "apiKey"], ["provider_config", "apiKey"], ["provider_config", "downloadReceipts"]
     ]
+    
 }
