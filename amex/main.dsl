@@ -16,5 +16,6 @@ if (request_entities.customerinfo) do
     with header "X-AMEX-REQUEST-ID : {customtid.tid}"
     with FORM_URLENCODED body <<<
     >>>
+    new text
     xform customerInfo using 'customer_info.xform' into rootentity.personalDatas
 enddo
