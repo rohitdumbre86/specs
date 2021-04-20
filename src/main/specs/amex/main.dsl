@@ -18,3 +18,5 @@ if (request_entities.customerinfo) do
     >>>
     xform customerInfo using 'customer_info.xform' into rootentity.personalDatas
 enddo
+
+print someDifferentResponse
