@@ -1,4 +1,3 @@
-
 providerMocks:
   - url: /servicing/v1/bearer/member/accounts?supplementary_account_filter=exclude_supplementary_accounts
     mockRequest:
